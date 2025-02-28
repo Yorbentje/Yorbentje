@@ -1,14 +1,14 @@
-# Algemene Plaatselijke Verordening Wave
+# Algemene Plaatselijke Verordening Westkust
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Westkust, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Wave.
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Westkust.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game, maar is verder bedoeld voor het afhandelen van straffen in-game.
 
 ### A2 - Geldigheid
@@ -48,7 +48,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokk
 ### Artikel 2 - Belediging
 
 1. Persoon die scheldt met hedendaags relevante ziektes, racistische opmerkingen, of andere ongepaste opmerkingen, wordt bestraft door middel van minimaal een 1 week ban. Dit is ook van kracht op karakternaam.
-2. Het is tevens niet toegestaan om in de Wave erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
+2. Het is tevens niet toegestaan om in de Westkust erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
 
 ### Artikel 3 - Permissies misbruiken
 
