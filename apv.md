@@ -69,27 +69,11 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokk
 2. Het is verboden om aan een actieve overval zomaar te gaan mengen als je geen overheid bent of er onderdeel van bent.
 3. Lid 1 en 2 zal gestraft worden volgens maximaal de 3e categorie.
 
-### Artikel 7 - Massa RDM/VDM
-
-1. Hij/zij die een persoon of personen meerdere keren zonder reden doodschiet achter elkaar wordt gezien als RDM.
-2. Hij/zij die een persoon of personen meerdere keren zonder reden dood rijdt achter elkaar wordt gezien als VDM.
-3. Lid 1 en 2 zal gestraft worden volgens maximaal de 2e categorie.
-
-### Artikel 8 - Reports
+### Artikel 7 - Reports
 
 1. Hij/zij die meerdere keren onnodige reports aanmaakt of het zit te spammen zal gestraft worden volgens de maximaal de 2e categorie.
 
-### Artikel 9 - RDM (Random Deathmatch):
-
-Het willekeurig doden van mensen die niet betrokken zijn bij jouw schietpartij en ook geen deel willen uitmaken van de situatie, wordt beschouwd als RDM (Random Deathmatch). Dit is een overtreding die zal leiden tot een straf binnen de 1e categorie.
-
-Sancties voor RDM-overtredingen:
-* 3 RDM Sancties: 1 dag ban.
-* 4 RDM Sancties: 2 dagen ban.
-* 5 RDM Sancties: 3 dagen ban.
-* 6 RDM Sancties: 4 dagen ban.
-
-### Artikel 10 - Voordoen als staff 
+### Artikel 8 - Voordoen als staff 
 
 1. Het is verboden om jezelf voor te doen als stafflid en/of uitspraken te gebruiken om als stafflid over te komen.
 2. Lid 1 zal gestraft worden volgens maximaal de 6e categorie.
@@ -99,8 +83,6 @@ Sancties voor RDM-overtredingen:
 ## Slotbepaling: Regels in het kort
 
 * Geen Cheats (Uiteraard is het niet toegestaan om cheats te gebruiken om jezelf een voordeel te geven en dit zal dan ook resulteren is een regelrechte ban)
-* Geen VDM (vehicle deathmatch, je wagen als wapen gebruiken).
-* Geen RDM (random deathmatch, zonder goede reden mensen schieten).
 * Niet overdreven schelden (geen Kanker en dergelijke, maakt niet uit of het bij je karakter hoort of niet. Hier wordt extra streng op gestraft).
 * Gebruik /report om mensen te rapporteren die niet naar de regels luisteren (maakt de community veel beter).
 * Niet ADVERTEREN met je eigen server/discord in de server zowel als op de discord.
